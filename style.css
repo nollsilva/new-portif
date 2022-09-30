@@ -1,0 +1,56 @@
+
+.nav.nav-tabs{
+    font-size: 17px;
+    letter-spacing: 2px;
+    color: black;
+}
+.nav-item a{
+    color: rgb(0, 0, 0)
+}
+
+.navbar-brand{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+.nav.nav-pills{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.container{
+    margin-top: 3rem;
+    color: rgb	(169,169,169);
+}
+.container h1{
+    margin-left: 29%;
+}
+.container p{
+    margin-top: 2rem;
+    margin-left: 40%;
+    width: 100%;
+}
+
+.navbar.navbar-light.bg-light.px-3{
+    letter-spacing: 2px;
+    margin-top: 2rem;
+    margin-left: 13%;
+}
+.scrollspy-example{
+    margin-left: 16%;
+}
+.footer{
+    margin-top: 5rem;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(211, 211, 211, 0.3);
+}
+
+.footer p{
+    padding-top: 15px;
+    margin-left: 30px;
+
+}
